@@ -1,0 +1,36 @@
+000RetroSharen keskustelupalvelin
+001Tämä työkalu helpottaa RetroShare-varmenteesi vaihtamista muiden käyttäjien kanssa. Pääset kirjautumaan sisään keskusteluauloihin, joissa voit verkostoitua muiden kanssa.
+002Lyhyt opastus
+003Syötä RetroShare-varmenteesi.
+004Seuraavalla sivulla saat keskustelupalvelimen varmenteen. Sen avulla pääset kirjautumaan keskusteluauloihin, joissa yhteisön muut käyttäjät keskustelevat.
+005Keskustele ja vaihda varmenteita toisten käyttäjien kanssa!
+006
+007
+008
+009
+010
+011Rekisteröi uusi varmenne
+012RetroShare-varmenne:
+013Captcha-koodi:
+014[ Eri kuva ]
+015Vahvista
+016Tiedoston avaaminen epäonnistui
+017Varmenteesi on vääränmallinen! Kopioi KOKO VARMENTEESI, mukaanlukien -----BEGIN PGP PUBLIC KEY BLOCK-----, -----END PGP PUBLIC KEY BLOCK-----, --SSLID-- ja --LOCATION--.
+018Ole hyvä ja palaa
+019takaisin
+020ja yritä uudelleen.
+021Captcha-koodi on väärä!
+022Paina seuraavaa linkkiä lisätäksesi keskustelupalvelimen:
+023Lisää keskustelupalvelin
+024Ongelmien sattuessa lisää varmenne manuaalisesti:
+025Muutamassa minuutissa uuden ystäväsi (CHAT SERVER) pitäisi olla linjoilla. Voit kirjautua keskusteluauloihin ja ryhtyä ystävystymään muiden käyttäjien kanssa.
+026Valittu keskusteluaula on
+027Valitse kaikki
+028
+029
+030
+031
+032
+033
+034
+035
